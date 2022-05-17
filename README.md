@@ -1,30 +1,7 @@
-# Jest Starter Project
+# Into to JS
 
-Starter for coding with jest.
+# github cheatsheet
+now that we have this setuo if we mant to save a change to github...
 
-## Tools
-
-- Jest for testing
-- Babel to enable nice things like `import` in Node
-
-## Getting Started
-
-### Install dependencies
-
-Before starting to code, don't forget to install all dependencies.
-
-```shell
-yarn
-or
-npm install
-```
-
-### Running tests
-
-Run all tests once:
-
-```shell
-yarn test
-```
-
-### GIT/GITHUB
+* These need to be done in vsCode
+* save everthing in vs Code
